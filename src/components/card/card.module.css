@@ -1,0 +1,15 @@
+.card{   
+width: 150px;
+/* height: 350px; */
+margin: 20px;
+padding: 10px;
+border: 1px solid grey;
+border-radius: 10px;
+background: azure;
+}
+.img{
+    width: 150px;
+    height: 180px;
+    border-radius: 5px;
+    /* display: block; */
+}
